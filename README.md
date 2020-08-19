@@ -15,6 +15,7 @@ It is a browser chat app, with chats separated by rooms, without cookies, privat
 - Uses ***socket.io*** as a the chat framework.
 - Uses ***mustache*** as frontend template.
 - Uses ***moment*** to manipulate and format timestamps.
+- A user can send a Google Maps link of his location to the chat room, upon permission/authorization by the browser.
 
 ---
 
