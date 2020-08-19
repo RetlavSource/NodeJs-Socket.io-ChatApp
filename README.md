@@ -16,7 +16,12 @@ It is a browser chat app, with chats separated by rooms, without cookies, privat
 - Uses ***mustache*** as frontend template.
 - Uses ***moment*** to manipulate and format timestamps.
 
+---
 
+### Test the App
+
+- App is deployed on Heroku for testing:
+https://mrbitwise-chat-app.herokuapp.com
 
 ---
 
@@ -29,5 +34,6 @@ The fun of this study was made possible by:
 - [mongoDB](https://www.mongodb.com/) Official Site
 - [Socket.io](https://socket.io/) Official Site
 - [Moment](https://momentjs.com/) Official Site
+- [Heroku](https://www.heroku.com/) Official Site
 - Andrew Mead [GitHub](https://github.com/andrewjmead/node-course-v3-code) Repository and [Site](https://mead.io/)
 - All credits from this study goes to *Udemy* and the instructor *Andrew Mead*
